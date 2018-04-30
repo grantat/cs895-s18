@@ -50,7 +50,7 @@ Repositories:
 - Autorec - https://github.com/mesuvash/NNRec
 - DeepRecommender - https://github.com/NVIDIA/DeepRecommender
 
-Compeitions:
+Competitions:
 
 - [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection)
 
