@@ -1,0 +1,7 @@
+tensorflow
+keras
+pandas
+sklearn
+category_encoders
+numpy
+jupyter
